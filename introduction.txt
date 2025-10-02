@@ -1,1 +1,7 @@
 My name is Kisaakye Rebecca. I'm a student pursuing Bachelor of science in computer science. I'm learning Git and GitHub for version control and this is my practical assignment to understand GitHub workflow.
+
+My hobbies include:
+- Programming
+- Coding
+- Networking
+- Reading about tech-infor
